@@ -1,2 +1,2 @@
 # E-mail-automatico
- Envio automatizado de e-mail cujo os endereços foram extraidos a partir de um banco de Dados MySQL.
+ Envio automatizado de e-mail cujo os endereços foram extraidos a partir de um banco de Dados MySQL. Obs: Esse projeto ainda está em construção e muito dos códigos que estão escritos são apenas para teste. Estarei atualizando esse repositório constantemente para deixa-lo coerente e eficiente. Contudo, não se incomodem em dar sugestões ou fazer críticas desde que tenha um tom respeitoso.
