@@ -8,3 +8,5 @@ if con.is_connected():
     db_info = con.get_server_info()
     print(f'está conectado ao Servidor MySQL versão {db_info}')
 #isso serve para mostrar informações no mysql
+else:
+    print('A senha ou o usuário está incorreto, verifique os dados e tente novamente.')
